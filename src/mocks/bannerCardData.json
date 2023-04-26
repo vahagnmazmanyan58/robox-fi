@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "amount": "8497.55",
+    "currency": "SOL",
+    "title": "Total Interest (from Active Loans)"
+  },
+  {
+    "id": 2,
+    "amount": "21673",
+    "title": "Total active positions"
+  },
+  {
+    "id": 3,
+    "amount": "4085/1508",
+    "title": "Loans in 24H/12H"
+  },
+  {
+    "id": 4,
+    "amount": "295240.32",
+    "currency": "SOL",
+    "title": "Active Loans Volume"
+  },
+  {
+    "id": 5,
+    "amount": "337506.33",
+    "currency": "SOL",
+    "title": "Total Value Locked"
+  }
+]
